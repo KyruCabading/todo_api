@@ -1,5 +1,5 @@
 # todo_api
-![todo_api in Chrome Browser](display.jpg)
+![todo_api in Chrome Browser](display.png)
 
 Todo list API with CRUD functionality. Running on NodeJS, Express, MongoDB.
 
