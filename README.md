@@ -3,6 +3,14 @@
 ![todo_api in Chrome Browser](display.png)
 Todo list API with CRUD functionality. Running on NodeJS, Express, & MongoDB.
 
+**Feature Roadmap**
+* Handle Multi-line todos
+* User Login - Account based DB
+* Multiple lists
+* Web notifications
+* Theming Options
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See running locally for notes on how to deploy the server locally on your machine. (Note: currently instructions are not 100% accurate)
