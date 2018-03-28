@@ -1,8 +1,7 @@
 # todo_api 
-Todo list API with CRUD functionality. Running on NodeJS, Express, MongoDB.
-![todo_api in Chrome Browser](display.png)
 
-Todo API in Chrome
+![todo_api in Chrome Browser](display.png)
+Todo list API with CRUD functionality. Running on NodeJS, Express, MongoDB.
 
 ## Getting Started
 
